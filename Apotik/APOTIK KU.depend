@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1496119601 source:d:\file zaki\tugas\semester2\new folder\apotik ku\pustaka.c
+	"header.h"
+
+1496119394 d:\file zaki\tugas\semester2\new folder\apotik ku\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1496119765 source:d:\file zaki\tugas\semester2\new folder\apotik ku\main.c
+	"header.h"
+
+1496204316 source:c:\users\riyan dini septian\downloads\apotik\main.c
+	"header.h"
+
+1496216593 c:\users\riyan dini septian\downloads\apotik\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496217737 source:c:\users\riyan dini septian\downloads\apotik\pustaka.c
+	"header.h"
+
+1496668569 source:e:\alfan\apotik\main.c
+	"header.h"
+
+1496668319 e:\alfan\apotik\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496664878 source:e:\alfan\apotik\user.c
+	"header.h"
+
+1496667288 source:e:\alfan\apotik\pustaka.c
+	"header.h"
+

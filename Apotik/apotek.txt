@@ -1,0 +1,20 @@
+Id Barang  : 2
+Nama Barang: 2
+Jumlah : 4219112
+Harga : 4219192
+Jenis : 2
+Id Barang  : 22
+Nama Barang: 2
+Jumlah : 4219332
+Harga : 4219412
+Jenis : 2
+Id Barang  : 12
+Nama Barang: ewr
+Jumlah : 4219112
+Harga : 4219192
+Jenis : 12
+Id Barang  : 33
+Nama Barang: wr
+Jumlah : 4219332
+Harga : 4219412
+Jenis : 1
